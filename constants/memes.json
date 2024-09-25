@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Meme 1",
+        "url": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/Screenshot_2024_0923_195126.jpg?alt=media&token=5461ae08-cc81-41a1-9b00-9c28ee1b2c89",
+        "creator": {
+            "username": "User 1",
+            "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+        },
+        "tags": ["funny", "something else"],
+        "upvotes": {
+            "count": 3,
+            "users": ["User 1", "User 2", "User 3"]
+        },
+        "downvotes": {
+            "count": 1,
+            "users": ["User 4"]
+        },
+        "comments": [
+                {
+                    "user": {
+                        "username": "User 4",
+                        "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+                    },
+                    "comment": "This is a comment",
+                    "createdAt": "2024-09-23T19:51:26.000Z",
+                    "likes": ["User 1", "User 2", "User 3"]
+                }
+            ],
+        "createdAt": "2024-09-23T19:51:26.000Z",
+        "donators": []
+    },
+    {
+        "name": "Meme 2",
+        "url": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/Screenshot_2024_0923_195126.jpg?alt=media&token=5461ae08-cc81-41a1-9b00-9c28ee1b2c89",
+        "creator": {
+            "username": "User 2",
+            "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+        },
+        "tags": ["funny", "something else"],
+        "upvotes": {
+            "count": 3,
+            "users": ["User 1", "User 2", "User 3"]
+        },
+        "downvotes": {
+            "count": 1,
+            "users": ["User 4"]
+        },
+        "comments": [
+                {
+                    "user": {
+                        "username": "User 4",
+                        "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+                    },
+                    "comment": "This is a comment",
+                    "createdAt": "2024-09-23T19:51:26.000Z",
+                    "likes": ["User 1", "User 2"]
+                }
+            ],
+        "createdAt": "2024-09-23T18:51:26.000Z",
+        "donators": []
+    },
+    {
+        "name": "Meme 3",
+        "url": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/Screenshot_2024_0923_195126.jpg?alt=media&token=5461ae08-cc81-41a1-9b00-9c28ee1b2c89",
+        "creator": {
+            "username": "User 3",
+            "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+        },
+        "tags": ["funny", "something else"],
+        "upvotes": {
+            "count": 3,
+            "users": ["User 1", "User 2", "User 3"]
+        },
+        "downvotes": {
+            "count": 1,
+            "users": ["User 4"]
+        },
+        "comments": [
+                {
+                    "user": {
+                        "username": "User 4",
+                        "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+                    },
+                    "comment": "This is a comment",
+                    "createdAt": "2024-09-23T19:51:26.000Z",
+                    "likes": ["User 3"]
+                }
+            ],
+        "createdAt": "2024-09-23T17:51:26.000Z",
+        "donators": []
+    },
+    {
+        "name": "Meme 4",
+        "url": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/Screenshot_2024_0923_195126.jpg?alt=media&token=5461ae08-cc81-41a1-9b00-9c28ee1b2c89",
+        "creator": {
+            "username": "User 4",
+            "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+        },
+        "tags": ["funny", "something else"],
+        "upvotes": {
+            "count": 3,
+            "users": ["User 1", "User 2", "User 3"]
+        },
+        "downvotes": {
+            "count": 1,
+            "users": ["User 4"]
+        },
+        "comments": [
+                {
+                    "user": {
+                        "username": "User 4",
+                        "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+                    },
+                    "comment": "This is a comment",
+                    "createdAt": "2024-09-23T19:51:26.000Z",
+                    "likes": ["User 1", "User 2", "User 3"]
+                }
+            ],
+        "createdAt": "2024-09-23T16:51:26.000Z",
+        "donators": []
+    },
+    {
+        "name": "Meme 5",
+        "url": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/Screenshot_2024_0923_195126.jpg?alt=media&token=5461ae08-cc81-41a1-9b00-9c28ee1b2c89",
+        "creator": {
+            "username": "User 5",
+            "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+        },
+        "tags": ["funny", "something else"],
+        "upvotes": {
+            "count": 3,
+            "users": ["User 1", "User 2", "User 3"]
+        },
+        "downvotes": {
+            "count": 1,
+            "users": ["User 4"]
+        },
+        "comments": [
+                {
+                    "user": {
+                        "username": "User 4",
+                        "avatar": "https://firebasestorage.googleapis.com/v0/b/lahelu-clone-42aef.appspot.com/o/a_avatarpandorapedia_jakesully_16x9_1098_02_b13c4171.jpeg?alt=media&token=cf1ba865-43ba-412b-8bcd-ef380f8a9715"
+                    },
+                    "comment": "This is a comment",
+                    "createdAt": "2024-09-23T19:51:26.000Z",
+                    "likes": ["User 1", "User 2", "User 3"]
+                }
+            ],
+        "createdAt": "2024-09-23T15:51:26.000Z",
+        "donators": []
+    }
+]
